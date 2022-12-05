@@ -1,4 +1,4 @@
-# artica
+# artiKa
 
 A new Flutter project.
 
